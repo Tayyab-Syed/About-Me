@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is ##Tayyab Syed
+# My name is ###Tayyab Syed
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
