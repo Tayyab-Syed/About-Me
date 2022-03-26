@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with Oracle
 - 💬 Ask me about Web Development | Python | Java | Javascript | C++ | C# | SQL | Digital Marketing
 - ⚡ Fun fact: I don't drink coffee while being a programmer 😄
-- - 📫 How to reach me: https://linktr.ee/tayyabsyed 
+- 📫 How to reach me: https://linktr.ee/tayyabsyed 
 
